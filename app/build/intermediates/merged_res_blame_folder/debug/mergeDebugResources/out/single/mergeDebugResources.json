@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/anim_move_to_fach2.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/anim/move_to_fach2.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_backup.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/backup.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/anim_fade_out.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/anim_fade_in.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_test_layouts.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_test_layouts.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/anim_move_to_fach0.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/anim/move_to_fach0.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_learning.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_learning.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_add_translation.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_add_translation.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/anim_move_to_fach1.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/anim/move_to_fach1.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_add_language.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_add_language.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_flashcard.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_flashcard.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_vocabulary_detail.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_vocabulary_detail.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-debug-34:/layout_activity_vocabulary_list.xml.flat",
+        "source": "/Users/cihan/.gradle/daemon/8.4/com.example.myapplication.app-main-36:/layout/activity_vocabulary_list.xml"
+    }
+]

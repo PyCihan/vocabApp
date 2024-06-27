@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Fächer anzeigen -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="top"
+        android:layout_marginBottom="16dp">
+
+        <TextView
+            android:id="@+id/fach0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Open: 0"
+            android:gravity="center"
+            android:background="@android:color/darker_gray"
+            android:padding="16dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/fach1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Again: 0"
+            android:gravity="center"
+            android:background="@android:color/darker_gray"
+            android:padding="16dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/fach2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Finished: 0"
+            android:gravity="center"
+            android:background="@android:color/darker_gray"
+            android:padding="16dp"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewSourceWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Source Word"
+        android:textSize="24sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/textViewSourceDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Source Description"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/textViewTargetWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Target Word"
+        android:textSize="24sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/textViewTargetDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Target Description"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:visibility="gone" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/buttonShowAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Show Answer"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buttonCorrect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Correct"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/buttonIncorrect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Incorrect"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:visibility="gone" />
+</LinearLayout>
