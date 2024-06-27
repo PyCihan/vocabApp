@@ -1,4 +1,4 @@
-#Thu Jun 27 19:51:45 CEST 2024
+#Thu Jun 27 22:01:38 CEST 2024
 base.0=/Users/cihan/Büro/Studium/MyApplication2/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/cihan/Büro/Studium/MyApplication2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/cihan/Büro/Studium/MyApplication2/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
